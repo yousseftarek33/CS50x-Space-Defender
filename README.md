@@ -15,7 +15,7 @@ To prove algorithmic thinking and structural correctness, this project successfu
 * **Control Structures & Dynamic Difficulty Evaluation:** Nested conditional statements (`if/then`) to increment scores, track game over metrics, and increase asteroid drop speed dynamically.
 
 ## 📂 How to Run the Project
-1. Download the `Untitled.sb3` file from this repository.
+1. Download the `CS50x-Project0.sb3` file from this repository.
 2. Go to the official [Scratch MIT Website](https://mit.edu).
 3. Click on **File** -> **Load from your computer** and select the `.sb3` file to preview and play.
 ٤.
